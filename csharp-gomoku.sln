@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-gomoku", "csharp-gomoku\csharp-gomoku.csproj", "{25C611BF-977D-4B51-9E31-1F3F91DEDB03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25C611BF-977D-4B51-9E31-1F3F91DEDB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C611BF-977D-4B51-9E31-1F3F91DEDB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C611BF-977D-4B51-9E31-1F3F91DEDB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C611BF-977D-4B51-9E31-1F3F91DEDB03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D89FF783-CE93-4FD3-B0C7-AE9B9E346012}
+	EndGlobalSection
+EndGlobal
