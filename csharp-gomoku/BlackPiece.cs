@@ -12,5 +12,10 @@ namespace csharp_gomoku
         {
             this.Image = Properties.Resources.black;
         }
+
+        public override PieceType GetPieceType()
+        {
+            return PieceType.BLACK;
+        }
     }
 }

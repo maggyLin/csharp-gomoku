@@ -8,3 +8,13 @@ D:\code\csharp-gomoku\csharp-gomoku\obj\Debug\csharp-gomoku.csproj.CoreCompileIn
 D:\code\csharp-gomoku\csharp-gomoku\obj\Debug\csharp-gomoku.exe
 D:\code\csharp-gomoku\csharp-gomoku\obj\Debug\csharp-gomoku.pdb
 D:\code\csharp-gomoku\csharp-gomoku\obj\Debug\csharp_gomoku.Form1.resources
+D:\code\csharp\csharp-gomoku\csharp-gomoku\bin\Debug\csharp-gomoku.exe.config
+D:\code\csharp\csharp-gomoku\csharp-gomoku\bin\Debug\csharp-gomoku.exe
+D:\code\csharp\csharp-gomoku\csharp-gomoku\bin\Debug\csharp-gomoku.pdb
+D:\code\csharp\csharp-gomoku\csharp-gomoku\obj\Debug\csharp-gomoku.csproj.AssemblyReference.cache
+D:\code\csharp\csharp-gomoku\csharp-gomoku\obj\Debug\csharp_gomoku.Form1.resources
+D:\code\csharp\csharp-gomoku\csharp-gomoku\obj\Debug\csharp_gomoku.Properties.Resources.resources
+D:\code\csharp\csharp-gomoku\csharp-gomoku\obj\Debug\csharp-gomoku.csproj.GenerateResource.cache
+D:\code\csharp\csharp-gomoku\csharp-gomoku\obj\Debug\csharp-gomoku.csproj.CoreCompileInputs.cache
+D:\code\csharp\csharp-gomoku\csharp-gomoku\obj\Debug\csharp-gomoku.exe
+D:\code\csharp\csharp-gomoku\csharp-gomoku\obj\Debug\csharp-gomoku.pdb
